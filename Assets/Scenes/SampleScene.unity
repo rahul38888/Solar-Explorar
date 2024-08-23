@@ -1126,7 +1126,7 @@ GameObject:
   - component: {fileID: 668636629}
   - component: {fileID: 668636628}
   m_Layer: 14
-  m_Name: Particle System
+  m_Name: Sun Burst
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
